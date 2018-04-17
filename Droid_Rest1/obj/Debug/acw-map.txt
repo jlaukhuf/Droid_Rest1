@@ -1,0 +1,4 @@
+Droid_Rest1.MainActivity, Droid_Rest1;md5ade45244a1e8e40655b19fec97060a9a.MainActivity
+Droid_Rest1.MainActivity, Droid_Rest1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ade45244a1e8e40655b19fec97060a9a.MainActivity
+Droid_Rest1.MainActivity;md5ade45244a1e8e40655b19fec97060a9a.MainActivity
+droid_rest1.MainActivity;md5ade45244a1e8e40655b19fec97060a9a.MainActivity

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Droid_Rest1</string>
+  <string name="ApplicationName">Consuming REST Services</string>
+  <string name="sendData">Send JSON</string>
+  <string name="readJson">Read JSON Remote</string>
+  <string name="readXml">Read XML Remote</string>
+</resources>
